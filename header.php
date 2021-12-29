@@ -31,18 +31,12 @@
     <script src="https://kit.fontawesome.com/3932cc729e.js" crossorigin="anonymous"></script>
     <!-- end script -->
 
-    <!-- Drop Typekit Script here -->
-    <!-- end script -->
-
     <!-- Drop Google Fonts Script here -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;600&display=swap" rel="stylesheet">
     <!-- end script -->
 
     <?php wp_head(); ?>
-
-    <!-- Drop Google Analytics here -->
-    <!-- end analytics -->
 
 </head>
 
